@@ -1,0 +1,11 @@
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 1003
+
+<HTML>
+<HEAD>
+<TITLE>This is 1003 bytes long :)</TITLE>
+</HEAD>
+<BODY>100</BODY>
+</HTML>
+
